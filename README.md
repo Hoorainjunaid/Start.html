@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoorainsiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="hoorainsiddiqui" /> </p>
 
-- 🔭 I’m currently working on [E-commerce](https://github.com/Amnasiddiqui1234/amnaawais.git)
+- 🔭 I’m currently working on [E-commerce] https://github.com/Hoorainjunaid/Hoorainjunaid.git
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on [All Projects](https://github.com/Amnasiddiqui1234/amnaawais.git)
+- 👯 I’m looking to collaborate on [All Projects](https://github.com/Hoorainjunaid/Hoorainjunaid.git))
 
-- 🤝 I’m looking for help with [New Frame Work](https://github.com/Amnasiddiqui1234/amnaawais.git)
+- 🤝 I’m looking for help with [New Frame Work](https://github.com/Hoorainjunaid/Hoorainjunaid.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hoorainjunaid/HoorainSiddiqui.git](https://github.com/Hoorainjunaid/HoorainSiddiqui.git)
+- 👨‍💻 All of my projects are available at [https://github.com/Hoorainjunaid/Hoorainjunaid.git]
 
-- 📝 I regularly write articles on [https://github.com/Hoorainjunaid/HoorainSiddiqui.git](https://github.com/Hoorainjunaid/HoorainSiddiqui.git)
+- 📝 I regularly write articles on [https://github.com/Hoorainjunaid/Hoorainjunaid.git]
 
 - 💬 Ask me about **Next.js**
 
