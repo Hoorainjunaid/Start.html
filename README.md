@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hoorain Siddiqui</h1>
+<h1 align="center">Hi 👋, I'm Hoorain Junaid</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/73/4f/b6/734fb6ed44aa280fe7546f7035363faf.gif"> 
 
