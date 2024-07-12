@@ -1,0 +1,108 @@
+* {
+    margin: 4px;
+    margin-left: 6px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(68, 116, 211);
+}
+
+.container h1 {
+    color: rgb(1, 0, 5);
+    margin: 6px;
+    font-size: 50px;
+}
+
+.container p {
+    color: rgb(2, 1, 10);
+    font-size: 25px;
+}
+
+.nav {
+    background-color: rgb(46, 41, 187);
+    width: 30%;
+    border-radius: 15px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px; /* Adjusted padding */
+    margin: 10px auto; /* Centering the navbar horizontally with margin */
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.nav a:hover {
+    background-color: rgb(68, 27, 216);
+    color: rgb(18, 18, 232);
+}
+
+.button {
+    background-color: rgb(47, 14, 213);
+    font-size: medium;
+    color: white; /* Changed text color to white for better contrast */
+    border: none;
+    padding: 15px 30px; /* Adjusted button padding */
+    border-radius: 15px;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block; /* Ensures button width adjusts to content */
+    margin-top: 20px; /* Added margin to separate from previous element */
+}
+
+.button:a hover {
+    background-color: black;
+    size: 10px;
+}
+
+.container img {
+    float: right;
+    height: auto; /* Changed to auto to maintain aspect ratio */
+    width: 30%;
+    max-width: 100%; /* Ensures image doesn't exceed container width */
+    border-radius: 15px;
+    margin-top: 20px; /* Added margin for spacing */
+}
+
+/* Corrected selector */
+.container About h2{
+    color: rgb(166, 8, 8);
+    font-size: 70px;
+}
+
+.About {
+    margin-top: 200px;
+    text-align: center; /* Center align content */
+}
+
+.About img {
+    float: right;
+    height: auto; /* Changed to auto to maintain aspect ratio */
+    width: 25%;
+    max-width: 100%; /* Ensures image doesn't exceed container width */
+    border-radius: 15px;
+    margin-top: 20px; /* Added margin for spacing */
+}
+
+.About p {
+    color: black;
+    font-size: 25px;
+}
+
+.About h1 {
+    color: black;
+    font-weight: 900;
+    font-size: 50px;
+}
